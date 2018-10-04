@@ -1,0 +1,38 @@
+h1
+{
+		color: #FFFF11;
+		font-family: Sans-Serif; 
+}
+
+.center
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 25%;
+}
+
+a
+{
+	font-size: 24;
+	font-family: Sans-Serif;
+}
+
+
+a:link
+{
+	color: #FF1111;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #3366ff;
+	text-decoration: underline;
+}
+
+a:hover
+{
+	font-weight: 900;
+	text-decoration: none;
+}
